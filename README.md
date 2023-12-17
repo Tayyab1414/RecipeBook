@@ -1,7 +1,3 @@
-Certainly! Here's a short README file for your code:
-
----
-
 # Recipe Book Application
 
 ## Overview
